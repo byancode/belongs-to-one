@@ -8,28 +8,16 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "megapixel23",
-            "email": "megapixel23@gmail.com"
+            "name": "byancode",
+            "email": "byancode@gmail.com"
         }
     ],
     "require": {
         "laravel/framework": "^v9.9.0"
     },
-    "require-dev": {
-        "phpunit/phpunit": "^9.5.11",
-        "orchestra/testbench": "v7.6.0"
-    },
     "autoload": {
         "psr-4": {
-            "Megapixel23\\Database\\Eloquent\\Relations\\": "src"
+            "Byancode\\Database\\Eloquent\\Relations\\": "src"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Models\\": "tests/Models"
-        },
-        "classmap": [
-            "tests/TestCase.php"
-        ]
     }
 }

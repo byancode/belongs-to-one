@@ -1,6 +1,6 @@
 <?php
 
-namespace Megapixel23\Database\Eloquent\Relations;
+namespace Byancode\Database\Eloquent\Relations;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Megapixel23\Database\Eloquent\Relations;
+namespace Byancode\Database\Eloquent\Relations;
 
 trait BelongsToOneTrait
 {
