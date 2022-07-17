@@ -1,10 +1,10 @@
 {
-    "name": "megapixel23/belongs-to-one",
+    "name": "byancode/belongs-to-one",
     "keywords": [
-        "laravel", "laravel-5", "ORM",
+        "laravel", "laravel-9", "ORM",
         "relation", "database"
     ],
-    "description": "Belongs To One Laravel 5 Relation class",
+    "description": "Belongs To One Laravel 9 Relation class",
     "license": "MIT",
     "authors": [
         {
@@ -13,11 +13,11 @@
         }
     ],
     "require": {
-        "laravel/framework": "^5.5"
+        "laravel/framework": "^v9.9.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^6.0",
-        "orchestra/testbench": "~3.0"
+        "phpunit/phpunit": "^9.5.11",
+        "orchestra/testbench": "v7.6.0"
     },
     "autoload": {
         "psr-4": {
